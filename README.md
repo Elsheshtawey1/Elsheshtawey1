@@ -15,7 +15,7 @@
 - 💻 **MERN Stack** Developer (MongoDB, Express, React, Node.js)
 - 🚀 Completed **ALX Software Engineering Program**
 - 🔭 Currently working on **E-commerce Platform**
-- 🌱 Learning **Microservices Architecture**
+<!-- - 🌱 Learning **Microservices Architecture** -->
 - ⚡ Fun fact: Can draft legal docs and code APIs simultaneously!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=elsheshtawey1&label=Profile+Views&color=886FBF&style=flat)
@@ -26,7 +26,6 @@
 
 #### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
 
